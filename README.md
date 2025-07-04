@@ -14,6 +14,8 @@
 
 This repository contains an experimental yet functional implementation of a **college-specific chatbot** built for NIT Jalandhar. The system can answer queries based on the **official prospectus** using a lightweight transformer model. While the core pipeline works, improvements and enhancements are planned for future updates.
 
+#### For security reasons , I cannot yet show the cell outputs as they are related to our college's prospectus , I may need to get permission to release them. The code is unstructured as I was learning LangChain on the go , thus don't judge the code please.
+
 ---
 
 ## ✅ Current Progress
