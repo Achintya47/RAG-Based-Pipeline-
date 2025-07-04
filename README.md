@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.51.0/files/dark/langchain-color.png" alt="LangChain Logo" height="50" style="margin-top:10px;">
+   <img src="https://github.com/Achintya47/Achintya47/blob/main/langchain.svg" alt="LangChain Logo" height="10" width="90">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace Logo" height="80">
 </p>
